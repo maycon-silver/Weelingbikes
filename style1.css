@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+body{
+    background-image: url(Criff\ teen.png);
+    font-family: 'Libre Baskerville', serif; color: white;
+}
+#m{
+    text-decoration: none;}
+#br{
+    width: 60px;
+    height: 40px;
+    
+}
+#wb{
+color: red;
+}
+
+.paragráfo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: blue;
+    -webkit-text-stroke-width: 1.3px;
+    -webkit-text-stroke-color: black;
+}
+
+#pa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 5%;
+   margin-top: 0%;
+   color: white;
+   -webkit-text-stroke-width: 0.2px;
+   -webkit-text-stroke-color: white;
+    
+}
+
+
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: blue;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 25px;
+}
+
+.pc{
+color: red;
+-webkit-text-stroke-width: 0.6px;
+-webkit-text-stroke-color: black;
+font-size: 20px;
+}
+
+tr{
+
+    color: blue;
+    -webkit-text-stroke-width: 01px;
+    -webkit-text-stroke-color: black;
+}
+
+.topico{
+color: red;
+-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 25px;
+
+}
+
+#ds{
+color: red;
+-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 25px;
+
+
+}
+h1{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.pr1{
+    text-indent: 20;
+
+
+}
+
+.p caption{
+text-indent: 10;
+
+}
+
+img{ 
+
+    border-color: red;
+}
+#ht{
+    color: blue;
+-webkit-text-stroke-width: 0.5px;
+-webkit-text-fill-color: black;
+
+}
+
+h3{
+margin-bottom: -1%;
+color: blue;
+-webkit-text-stroke-color: black;
+-webkit-text-stroke-width: 0.5px;
+}
+
+.final{
+color: red;
+font-size: 30px;
+-webkit-text-stroke-color: black;
+-webkit-text-stroke-width: 1.5px;
+
+}
